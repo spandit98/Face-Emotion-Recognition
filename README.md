@@ -43,8 +43,8 @@ Tensorflow-cpu
 
 Streamlit_webrtc
 
-## Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
-## Streamlit:  http://192.168.221.127:8504 
+### Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
+### Streamlit:  http://192.168.221.127:8504 
 ## Accuracy and Loss Graph
 ![image](https://user-images.githubusercontent.com/85746056/146380609-e4c175e5-9f26-4b6b-8595-c962d6e7acd7.png)
 The model which was created using CNN that gave training accuracy of 80% and validation accuracy of 65%. 
