@@ -61,14 +61,23 @@ The model which was created using CNN that gave training accuracy of 80% and val
 
 # References-
 MachineLearningMastery 
+
 GeeksforGeeks
+
 Analytics Vidhya
+
 Towards DataScience
+
 Data Science from scratch
+
 Builtin
+
 Plosone
+
 Stremlit Documentation
+
 Heroku Documentation
+
 Tensorflow Documentation
 
 
